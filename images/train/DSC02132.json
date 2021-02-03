@@ -1,0 +1,356 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 97528548,
+            "tagId": 28991924,
+            "name": "Valid",
+            "value": null,
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 611651163,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        31
+                    ],
+                    [
+                        231,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651162,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        31
+                    ],
+                    [
+                        272,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651161,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        30
+                    ],
+                    [
+                        313,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651160,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        31
+                    ],
+                    [
+                        355,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651159,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        28
+                    ],
+                    [
+                        396,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651158,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        25
+                    ],
+                    [
+                        440,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651157,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        24
+                    ],
+                    [
+                        481,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651156,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        84
+                    ],
+                    [
+                        234,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651155,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        83
+                    ],
+                    [
+                        315,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651154,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        81
+                    ],
+                    [
+                        398,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651153,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        79
+                    ],
+                    [
+                        482,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651152,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        84
+                    ],
+                    [
+                        274,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651151,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        83
+                    ],
+                    [
+                        357,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651150,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        81
+                    ],
+                    [
+                        440,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

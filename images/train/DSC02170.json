@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 97528556,
+            "tagId": 28991924,
+            "name": "Valid",
+            "value": null,
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 611651214,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        86
+                    ],
+                    [
+                        166,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651213,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        61
+                    ],
+                    [
+                        231,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651212,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        40
+                    ],
+                    [
+                        282,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651211,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        593,
+                        15
+                    ],
+                    [
+                        616,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 611651210,
+            "classId": 2772470,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "003829",
+            "createdAt": "2021-01-29T00:32:01.484Z",
+            "updatedAt": "2021-01-29T00:32:01.484Z",
+            "tags": [],
+            "classTitle": "Power_Cell",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        14
+                    ],
+                    [
+                        335,
+                        34
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
